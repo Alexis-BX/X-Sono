@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>mp3files/Celeustique/Au_drapeau.mp3</file>
+        <file>mp3files/Celeustique/Au_drapeauSEUL.mp3</file>
+        <file>mp3files/Celeustique/Aux_champs.mp3</file>
+        <file>mp3files/Celeustique/Aux_morts.mp3</file>
+        <file>mp3files/Celeustique/Fermez_le_ban.mp3</file>
+        <file>mp3files/Celeustique/Garde_a_vous.mp3</file>
+        <file>mp3files/Celeustique/Ouvrez_le_ban.mp3</file>
+        <file>mp3files/Celeustique/Rappel.mp3</file>
+        <file>mp3files/Marches/9e_BIMa.mp3</file>
+        <file>mp3files/Marches/Entre_Terre_et_Mer.mp3</file>
+        <file>mp3files/Marches/La_Galette.mp3</file>
+        <file>mp3files/Marches/Marche_des_commandos.mp3</file>
+        <file>mp3files/Marches/Robert_Bruce.mp3</file>
+    </qresource>
+</RCC>
