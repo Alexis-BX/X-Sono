@@ -2,6 +2,8 @@
 
 This is a project that was developed jointly with Alexis Baleras. Its aim is to create a new sound management software for military ceremonies at Ecole Polytechnique Paris.
 
+The document `Ceremonial_X.pdf` details the functioning of one of these ceremonies and it is highly recommended to be familiar with it beforehand.
+
 This system was made for students following French ceremonies, this is why some supporting documents as well as in-app buttons may be in French.
 
 ## Compiling
